@@ -1,4 +1,4 @@
-# Team OS Example Repo
+# Team OS
 
 Scaling isn't about making yourself faster - it's about making your team better.
 
@@ -8,12 +8,6 @@ The example company is Forge, a fictional AI prototyping startup with a 10-perso
 
 Instead of one person bottlenecking context, everyone on the team can self-serve. The repo becomes the shared brain of the team.
 
-Created by [Hannah Stulberg](https://hannahstulberg.substack.com/).
-
-## Where to learn more
-
-- **[In the Weeds](https://hannahstulberg.substack.com/):** Hannah's Substack on practical AI workflows
-- **[The Growth Podcast](https://www.news.aakashg.com/):** Aakash Gupta's Substack on product management and growth
 
 ## License
 
