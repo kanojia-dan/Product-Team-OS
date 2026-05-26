@@ -4,7 +4,7 @@
 
 | Function | Team Member | GitHub | Linear / Jira / Asana ID | Slack ID |
 |----------|-------------|--------|-----------|----------|
-| PM | Hannah Stulberg | `hannahstulberg` | `a1b2c3d4-e5f6-7890-abcd-ef1234567890` | `U0A1B2C3D4E` |
+| PM | Danish Kanojia | `kanojia-dan` | `a1b2c3d4-e5f6-7890-abcd-ef1234567890` | `U0A1B2C3D4E` |
 | EM | Alex Rivera | `alexrivera` | `b2c3d4e5-f6a7-8901-bcde-f12345678901` | `U0B2C3D4E5F` |
 | Engineering | Jordan Kim | `jordankim` | `c3d4e5f6-a7b8-9012-cdef-123456789012` | `U0C3D4E5F6A` |
 | Engineering | Sam Chen | `samchen` | `d4e5f6a7-b8c9-0123-defa-234567890123` | `U0D4E5F6A7B` |
@@ -32,7 +32,7 @@
 
 | Group | Members | ID | Purpose |
 |-------|---------|-----|---------|
-| Forge Leads | Hannah, Alex, Casey, Drew | `G0A1B2C3D4E` | Weekly leads sync, cross-functional decisions |
+| Forge Leads | Danish, Alex, Casey, Drew | `G0A1B2C3D4E` | Weekly leads sync, cross-functional decisions |
 | Eng + Design | Alex, Jordan, Sam, Riley, Morgan, Taylor, Jamie | `G0B2C3D4E5F` | Implementation handoffs, spec clarifications |
 | PM + Design | Hannah, Taylor, Jamie | `G0C3D4E5F6A` | UX direction, wireframe reviews, PRD feedback |
 | Launch War Room | Hannah, Alex, Drew, Casey | `G0D4E5F6A7B` | Active launch coordination and go/no-go calls |
